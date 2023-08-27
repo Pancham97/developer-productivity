@@ -15,3 +15,4 @@ Tools, websites, articles, blogs, and everything else that I find helpful to boo
 ## Quality of life improvements
 
 - [Raycast](http://raycast.com)
+- [Feedful](https://feedful.app)
