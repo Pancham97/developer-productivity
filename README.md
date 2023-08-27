@@ -11,3 +11,7 @@ Tools, websites, articles, blogs, and everything else that I find helpful to boo
 ## Documentation
 
 - [Docusaurus](https://docusaurus.io/docs)
+
+## Quality of life improvements
+
+- [Raycast](http://raycast.com)
